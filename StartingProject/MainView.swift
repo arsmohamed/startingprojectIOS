@@ -14,8 +14,9 @@ struct MainView: View {
                         Label("Locations", systemImage: "fork.knife")
                     }
                 }
-            
-            ReservationView()
+            List {
+                ReservationView()
+            }
                 .tag(1)
                 .tabItem {
                     if !model.displayingReservationForm {

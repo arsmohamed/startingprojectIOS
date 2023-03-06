@@ -18,6 +18,158 @@
             endingLineNumber = "31"
             landmarkName = "Model"
             landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "54B62BC1-102F-44B4-B0AF-411272622089 - f82397989bca26d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of StartingProject.Model.tabBarChanged : Swift.Bool"
+                  moduleName = "StartingProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mero/projects/startingprojectIOS/StartingProject/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "54B62BC1-102F-44B4-B0AF-411272622089 - 796d4ea8de39ff22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StartingProject.Model.tabBarChanged.getter : Swift.Bool"
+                  moduleName = "StartingProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mero/projects/startingprojectIOS/StartingProject/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "54B62BC1-102F-44B4-B0AF-411272622089 - 1c84814f134ad716"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StartingProject.Model.tabBarChanged.setter : Swift.Bool"
+                  moduleName = "StartingProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mero/projects/startingprojectIOS/StartingProject/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "54B62BC1-102F-44B4-B0AF-411272622089 - d2c166e7d19d921"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StartingProject.Model.tabBarChanged.modify : Swift.Bool"
+                  moduleName = "StartingProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mero/projects/startingprojectIOS/StartingProject/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "54B62BC1-102F-44B4-B0AF-411272622089 - 3ca0d50280fce316"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StartingProject.Model.tabBarChanged.modify : Swift.Bool with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "StartingProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mero/projects/startingprojectIOS/StartingProject/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "54B62BC1-102F-44B4-B0AF-411272622089 - b67622335c72d50f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StartingProject.Model.$tabBarChanged.getter : Combine.Published&lt;Swift.Bool&gt;.Publisher"
+                  moduleName = "StartingProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mero/projects/startingprojectIOS/StartingProject/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "54B62BC1-102F-44B4-B0AF-411272622089 - 3085690a158c8973"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StartingProject.Model.$tabBarChanged.setter : Combine.Published&lt;Swift.Bool&gt;.Publisher"
+                  moduleName = "StartingProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mero/projects/startingprojectIOS/StartingProject/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "54B62BC1-102F-44B4-B0AF-411272622089 - 75d79977adc0cf53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StartingProject.Model.$tabBarChanged.modify : Combine.Published&lt;Swift.Bool&gt;.Publisher"
+                  moduleName = "StartingProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mero/projects/startingprojectIOS/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "54B62BC1-102F-44B4-B0AF-411272622089 - a8349ab7a923174a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StartingProject.Model.$tabBarChanged.modify : Combine.Published&lt;Swift.Bool&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "StartingProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mero/projects/startingprojectIOS/StartingProject/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "54B62BC1-102F-44B4-B0AF-411272622089 - ecbb3b0f46f8ad22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StartingProject.Model.init() -&gt; StartingProject.Model"
+                  moduleName = "StartingProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mero/projects/startingprojectIOS/StartingProject/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1892">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
